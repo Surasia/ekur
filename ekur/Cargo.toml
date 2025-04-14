@@ -5,7 +5,7 @@ edition = "2024"
 license = "GPL-3.0-or-later"
 
 [dependencies]
-anyhow = "1.0.97"
+anyhow = "1.0.98"
 bitflags = "2.9.0"
 clap = { version = "4.5.35", features = ["derive"] }
 ddsfile = "0.5.2"
